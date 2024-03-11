@@ -1,0 +1,4 @@
+pilkarz1 1
+pilkarz2 2
+pilkarz3 3
+pilkarz4 4
